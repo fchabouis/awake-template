@@ -9,6 +9,6 @@ featureImage: /uploads/cat-1045782_1920.jpg
 ---
 Elixir streaming can be confusing when first encountered.
 
-```
+```elixir
 Enum.stream(fn url -> url end)
 ```
